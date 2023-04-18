@@ -1,0 +1,123 @@
+name	prof	class	ranged class	Melee	min	max	gp	One handed	Two Handed	damage type	weight	aoe	magazine	misfire	battleweight	finesse	special	special	storm	reach	iosan	magelock	volley	loading	rearm
+'jack wrench	simple	melee		melee			15.00	1d8		bludgeoning	5				heavy										
+battleaxe	martial	melee		melee			10.00	1d8	1d10	slashing	4														
+bayonet	simple	melee		melee			3.00	1d6	1d10	piercing	1						bayonet	special							
+blasting pike	martial	melee		5			30.00	1d8	1d10	piercing	18				heavy		blasting pike	special		reach					rearm
+caspian battleblade	martial	melee		melee			25.00	1d8	2d6	slashing	12				heavy										
+chain blade	martial	melee		5			20.00	1d6		slashing	6					finesse				reach					
+club	simple	melee		melee			0.10	1d4		bludgeoning	2				light										
+coal shovel	simple	melee		melee			1.00	1d4	1d6	bludgeoning	3						coal shovel	special							
+cutlass	martial	melee		melee			20.00	1d8		slashing	3					finesse									
+fire breather	martial	rifles			30 foot cone		35.00	2d8		fire	12		5				fire breather	special							
+flail	martial	melee		melee			10.00	1d8		bludgeoning	2														
+flame spear	simple	melee		melee			25.00	1d6	1d8	piercing	6						flame spear	special							
+gaff	simple	melee		melee			2.00	1d4		piercing	1				light										
+gaff spear	simple	melee		melee			4.00		1d8	piercing	3						gaff spear	special							
+glaive	martial	melee		5			20.00		1d10	slashing	6				heavy					reach					
+greataxe	martial	melee		melee			30.00		1d12	slashing	7				heavy										
+greatclub	simple	melee		melee			0.20		1d8	bludgeoning	10														
+greatsword	martial	melee		melee			50.00		2d6	slashing	6				heavy										
+halberd	martial	melee		5			20.00		1d10	slashing	6				heavy					reach					
+halfspear	simple	melee		melee			1.00	1d6	1d8	slashing	2				light										
+heavy voulge	martial	melee		melee			15.00		2d6	slashing	9				heavy										
+hooked greatsword	martial	melee		5			55.00		1d12	slashing	15				heavy		hooked greatsword	special		reach					
+knuckledusters	simple	melee		melee			0.50	1d4		bludgeoning	1						knuckledusters	special							
+kopis	martial	melee		melee			12.00	1d8		slashing	3														
+lance	martial	melee		5			10.00	1d12		piercing	6						lance	special		reach					
+light kopis	simple	melee		melee			2.00	1d6		slashing	2				light										
+longsword	martial	melee		melee			15.00	1d8	1d10	slashing	3														
+mace	simple	melee		melee			5.00	1d6		bludgeoning	4														
+maul	martial	melee		melee			10.00		2d6	bludgeoning	10				heavy										
+morningstar	martial	melee		melee			15.00	1d8		piercing	4														
+nyss claymore	martial	melee		melee			?		1d10	slashing	5					finesse									
+nyss curved halberd	martial	melee		5			?		1d10	slashing	5				heavy	finesse				reach					
+nyss greatsword	martial	melee		melee			?		2d6	slashing	5				heavy	finesse									
+ogrun warcleaver	martial	melee		5			35.00		1d12	slashing	35				heavy					reach					
+pickaxe	simple	melee		melee			5.00	1d6		piercing	3				light										
+pike	martial	melee		5			5.00		1d10	piercing	18				heavy					reach					
+quarterstaff	simple	melee		melee			0.20	1d6	1d8	bludgeoning	4														
+rapier	martial	melee		melee			25.00	1d8		piercing	2					finesse									
+scimitar	martial	melee		melee			25.00	1d6		slashing	3				light	finesse									
+shortsword	martial	melee		melee			10.00	1d6		piercing	2				light	finesse									
+sickle	simple	melee		melee			1.00	1d4		slashing	2				light										
+sickle staff	martial	melee		melee			25.00	1d8	1d10	slashing	5					finesse									
+springblade	simple	melee		melee			4.00	1d4		piercing	2				light	finesse									
+stave of authority	simple	melee		melee			?	1d6	1d8	bludgeoning	7						stave of authority	special							
+steam drill	martial	melee		melee			50.00		1d10	piercing	35				heavy		steam drill	special							
+sword cane	martial	melee		melee			40.00	1d8		piercing	2					finesse	sword cane	special							
+trench knife	martial	melee		melee			3.00	1d4		piercing	2				light		trench knife	special							
+trench sword	martial	melee		melee			12.00	1d6		piercing	3				light		trench sword	special							
+two-handed flail	martial	melee		melee			15.00		1d12	bludgeoning	4				heavy										
+voltaic halberd	martial	melee		5			1,110.00		1d10	slashing	9				heavy		voltaic halberd	special	storm	reach					
+war pick	martial	melee		melee			5.00	1d8		piercing	20														
+warhammer	martial	melee		melee			15.00	1d8	1d10	bludgeoning	2														
+whip	martial	melee		5			2.00	1d4		slashing	3					finesse				reach					
+longbow	martial	ranged	ammunition		150	600	50.00		1d8	piercing	2				heavy										
+nyss bow	martial	ranged	ammunition		200	800	65.00		1d10	piercing	3				heavy										
+repeating crossbow	martial	ranged	ammunition		100	400	80.00		1d10	piercing	20		6		heavy										
+shortbow	simple	ranged	ammunition		80	320	25.00		1d6	piercing	2														
+sling	simple	ranged	ammunition		30	120	0.10	1d4		bludgeoning	0														
+barrage arquebus	martial	rifles	firearm		40	120	175.00		2d10	bludgeoning	35	10	3		heavy		barrage arquebus	special							
+blunderbuss	simple	rifles	firearm		30	90	15.00		1d8	piercing	16	5	1	3											
+cannon-shield	martial	rifles	firearm		10	30	90.00	1d8		piercing	10		1				cannon-shield	special							
+carbine	martial	rifles	firearm		50	150	25.00		2d8	piercing	10		5												
+dawnguard sword-cannon	martial	rifles	firearm		50	150	90.00		2d8	piercing	10		6		heavy		dawnguard sword-cannon	special			iosan				
+dual hand cannon	martial	pistols	firearm		80	240	250.00	2d6		piercing	10		2		heavy		dual hand cannon	special							
+dual magelock pistol	martial	pistols	firearm		40	120	280.00	1d10		piercing	8		2				dual magelock pistol	special				magelock			
+hand cannon	martial	pistols	firearm		80	240	100.00	2d6		piercing	8		1		heavy										
+harpoon pistol	simple	pistols	firearm		20	60	10.00	1d4		piercing	1		1	2	light		harpoon pistol	special							
+heavy iosan pistol	martial	pistols	firearm		80	240	300.00	2d8		piercing	4		5		light						iosan				
+heavy rifle	martial	rifles	firearm		60	180	60.00		2d10	piercing	16		1												
+houseguard heavy rifle	martial	rifles	firearm		100-foot line		130.00		1d10	piercing	25		1		heavy		houseguard heavy rifle	special			iosan				
+iosan long rifle	simple	rifles	firearm		90	270	280.00		2d6	piercing	8		5								iosan				
+iosan pistol	simple	pistols	firearm		80	240	200.00	1d8		piercing	4		1		light						iosan				
+lance cannon	martial	rifles	firearm		60	180	95.00		2d10	piercing	6		1								iosan				
+magelock pistol	martial	pistols	firearm		40	120	150.00	1d10		piercing	8		1									magelock			
+magelock rifle	martial	rifles	firearm		60	180	200.00		2d8	piercing	13		1									magelock			
+military rifle	martial	rifles	firearm		60	180	85.00		2d8	piercing	12		1												
+musket	simple	rifles	firearm		35	105	18.00		1d12	piercing	15		1	4											
+musket pistol	simple	pistols	firearm		20	60	15.00	1d12		piercing	3		1	4	light										
+ogrun battle cannon	martial	rifles	firearm		15	45	145.00		2d12	bludgeoning	30	5	1		heavy										
+pig iron	simple	rifles	firearm		60	180	10.00		1d10	piercing	5		1	3			pig iron	special							
+pistol	simple	pistols	firearm		40	120	20.00	1d10		piercing	4		1		light										
+radcliffe quad-iron	martial	pistols	firearm		20	80	40.00	1d6		piercing	10		4										volley		
+repeating pistol	simple	pistols	firearm		40	120	25.00	1d10		piercing	6		5		light										
+repeating rifle	martial	rifles	firearm		60	180	100.00		2d8	piercing	13		5												
+rivet gun	simple	pistols	firearm		10	30	10.00	1d8		piercing	8		10												
+rynnish holdout	simple	pistols	firearm		20	60	30.00	1d6		piercing	1		2		light										
+rynnish walking stick	simple	rifles	firearm		20	60	30.00		1d8	piercing	2		1												
+scattergun	simple	rifles	firearm		30	90	20.00		2d8	piercing	8		1												
+slug gun	martial	rifles	firearm		10	30	150.00		2d12	piercing	18		1												
+slugger	martial	rifles	firearm		60	180	190.00		2d10	piercing	30		30	2	heavy								volley		
+sword-cannon	martial	rifles	firearm		50	150	175.00		2d8	piercing	15		1		heavy		sword-cannon	special							
+vanar liberator	martial	rifles	firearm		100	300	150.00		2d8	piercing	18		1		heavy										
+vortex cannon	martial	rifles	firearm		60	120	225.00	2d8		force	5		5	1			vortex cannon	special			iosan				
+explosive	martial	grenade	grenade		20	60	?	4d10		piercing	2	5													
+fear gas	martial	grenade	grenade		20	60	?	0		-	2	5					fear gas	special							
+flash	martial	grenade	grenade		20	60	?	0		-	2	5					flash	special							
+incendiary	martial	grenade	grenade		20	60	?	4d10		fire	2	5													
+smoke	martial	grenade	grenade		20	60	?	0		-	2	5					smoke	special							
+strangle gas	martial	grenade	grenade		20	60	?	0		-	2	5					strangle gas	special							
+electro lance	martial	melee	storm generator	melee	30	120	1,750.00	1d12		piercing	10						electro lance	special	storm	reach					
+storm glaive	martial	melee	storm generator	melee	20	60	1,500.00	1d8	1d10	slashing	5								storm						
+storm thrower	martial	melee	storm generator	melee	80	320	1,000.00	1d4		piercing	20						storm thrower	special	storm						
+bola	simple	ranged	thrown		20	60	0.10	1d4		bludgeoning	2						bola	special							
+caber	martial	melee	thrown	melee	20	60	30.00	2d12		bludgeoning	180				heavy		caber	special							
+dagger	simple	melee	thrown	melee	20	60	2.00	1d4		piercing	1				light	finesse									
+dart	simple	ranged	thrown		20	60	0.05	1d4		piercing	1/4					finesse									
+handaxe	simple	melee	thrown	melee	20	60	5.00	1d6		slashing	2				light										
+harpoon	simple	melee	thrown	melee	20	60	3.00	1d8		piercing	5														
+javelin	simple	melee	thrown	melee	30	120	0.50	1d6		piercing	2														
+light hammer	simple	melee	thrown	melee	20	60	2.00	1d4		bludgeoning	2				light										
+net	martial	ranged	thrown		5	15	1.00	0		-	3						net	special							
+spear	simple	melee	thrown	melee	20	60	1.00	1d6	1d8	piercing	3														
+trident	martial	melee	thrown	melee	20	60	5.00	1d6	1d8	piercing	4														
+blowgun	martial	ranged	ammunition		25	100	10.00	1		piercing	1													loading	
+hand crossbow	martial	ranged	ammunition		30	120	75.00	1d6		piercing	3				light									loading	
+harpoon gun	simple	rifles	ammunition		60	120	50.00		2d6	piercing	15						harpoon gun	special						loading	
+heavy crossbow	martial	ranged	ammunition		100	400	50.00		1d10	piercing	18				heavy									loading	
+light crossbow	simple	ranged	ammunition		80	320	25.00		1d8	piercing	5													loading	
+stormfall great bow	martial	ranged	ammunition		200	800	75.00		1d12	piercing	5				heavy		stormfall great bow	special						loading	
+arcantrik cannon	martial	rifles	firearm		80	240	50.00		2d8	radiant	12										iosan			loading	
+hand mortar	martial	pistols	firearm		30	90	90.00	1d12		bludgeoning	8	10			heavy									loading	
+rocket launcher	martial	rifles	firearm		100	300	300.00		3d10	fire	20			4	heavy									loading	

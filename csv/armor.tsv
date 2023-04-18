@@ -1,0 +1,35 @@
+Class	Name	Gold	AC Bonus	Dex Bonus	Min Str	Stealth	lb
+Warcaster	Medium Warcaster Armor	2060	5	2	13	TRUE	55
+Medium	Half plate	750	5	2		TRUE	40
+Medium	Scale mail	50	4	2		TRUE	45
+Medium	Armored apron	30	3	2		TRUE	20
+Light	Scrap armor	45	2	all		TRUE	15
+light	Padded	5	1	all		TRUE	8
+Warcaster	Heavy Warcaster Armor	2760	8		15	TRUE	90
+Steam	Heavy-class steam armor	1800	9		16	TRUE	600
+Heavy	Storm Knight	1575	8		15	TRUE	65
+Heavy	Plate	1500	8		15	TRUE	65
+Steam	Standard-class steam armor	1250	7		14	TRUE	300
+Heavy	Dawnguard plate	200	8		15	TRUE	60
+Heavy	Splint	200	7		15	TRUE	60
+Heavy	Forge Guard plate	165	8		13	TRUE	30
+Heavy	Chain mail	75	6		13	TRUE	55
+Heavy	Ring mail	30	4			TRUE	40
+Shield	Tower shield	25	2		16	TRUE	10
+Extras	Armored greatcoat,	20	1			TRUE	10
+Medium	Tailored plate	800	5	2			20
+Medium	Breastplate	400	4	2			20
+Medium	Infantry Armor	85	4	2	13		35
+Medium	Houseguard armor	55	5	2			20
+Medium	Chain shirt	50	3	2			20
+Medium	Hide	10	2	2			12
+Warcaster	Light Warcaster Armor	2010	3	all			30
+light	Alchemist's leathers	55	2	all			13
+light	Studded leather	45	2	all			13
+Light	Mage hunter armor	20	1	all			5
+light	Leather	10	1	all			10
+Heavy	House Ellowuyr plate	75	7		13		55
+Shield	Buckler cannon	25	1				8
+Shields	Assault shield	20	2		13		10
+Shield	High shield	15	2				6
+Shields	Shield	10	2				6

@@ -1,0 +1,155 @@
+Type	name	gp	lb.	Description
+alchemical ingredients	Ectoplasm	10	0	
+alchemical ingredients	Arcane minerals	7	0	
+alchemical ingredients	Arcane extract	5	0	
+alchemical ingredients	Menoth's Fury	3	0	
+alchemical ingredients	Bioluminescent extract	1	0	
+alchemical ingredients	Mutagenic extract	0.8	0	
+alchemical ingredients	Burrow mawg adrenal gland	0.5	0	
+alchemical ingredients	Heavy metals	0.5	0	
+alchemical ingredients	Organic toxin	0.5	0	
+alchemical ingredients	Mineral crystals	0.3	0	
+alchemical ingredients	Organic acid	0.3	0	
+alchemical ingredients	Alchemist's stone	0.2	0	
+alchemical ingredients	Mineral acid	0.2	0	
+alchemical ingredients	Organic oil	0.1	0	
+alchemical ingredients	Alchemical waste, crystal	0.01	0	
+alchemical ingredients	Alchemical waste, liquid	0.01	0	
+ammunition	Ghordson brassbarrel (5 light/2 heavy)	20	1	
+ammunition	Vortex cannon shells (5)	12	1	
+ammunition	Fire breather shells (8)	11	1	
+ammunition	Barrage arquebus shells (3)	10	3	
+ammunition	Rocket	10	1	
+ammunition	Iosan light artillery round	8	0.5	
+ammunition	Hand mortar shells (3)	5	1	
+ammunition	Incendiary rounds (5)	5	0.5	
+ammunition	Iosan heavy rounds (5)	5	1.5	
+ammunition	Stormfall archer warhead	5	1	
+ammunition	Iosan light rounds (5)	3	1	
+ammunition	Bullets, casings, and powder (20)	1	1	
+ammunition	Arrows (20)	1	1	
+ammunition	Blowgun needles (50)	1	1	
+ammunition	Crossbow bolts (20)	1	1.5	
+ammunition	Sling bullets (20)	0.04	1.5	
+arcane focus	Orb	20	3	
+arcane focus	Crystal	10	1	
+arcane focus	Rod	10	2	
+arcane focus	Wand	10	1	
+arcane focus	Staff	5	4	
+clothes	Fine Clothes	15	6	
+clothes	Costume	5	4	
+clothes	Traveler's Clothes	2	4	
+clothes	Robes	1	4	
+clothes	Common Clothes	0.5	3	
+coal	Delivery of 2000 pounds	100	2000	
+coal	Delivery of 1000 pounds	60	1000	
+coal	500 lb.pound bag	5	50	
+coal	200 lb.pound bag	3	20	
+containers	Chest	5	25	12 cubic feet/300 pounds of gear
+containers	Backpack	2	5	1 cubic foot/30 pounds of gear
+containers	Barrel	2	70	40 gallons liquid, 4 cubic feet solid
+containers	Glass Bottle	2	2	1.5 pints liquid
+containers	Pot, iron	2	10	1 gallon liquid
+containers	Case, Crossbow Bolt	1	1	20 crossbow bolts
+containers	Case, Map/Scroll	1	1	ten rolled-up sheets of paper of five rolled-up sheets of parchment
+containers	Quiver	1	1	20 arrows
+containers	Vial	1	0	4 ounces liquid
+containers	Pouch	0.5	1	1/5 cubic foot/6 pounds of gear
+containers	Basket	0.4	2	2 cubic feet/40 pounds of gear
+containers	Waterskin	0.2	5	4 pints liquid
+containers	Bucket	0.05	2	3 gallons liquid, 1/2 cubic foot solid
+containers	Flask or Tankard	0.02	1	1 pint liquid
+containers	Jug or Pitcher	0.02	4	1 gallon liquid
+containers	Sack	0.01	0.5	1 cubic foot/30 pounds of gear
+druidic focus	Yew Wand	10	1	
+druidic focus	Wooden Staff	5	4	
+druidic focus	Sprig of Mistletoe	1	0	
+druidic focus	Totem	1	0	
+equipment	Spyglass	1000	1	
+equipment	Shyeel personal field generator	110	1	
+equipment	Magnifying Glass	100	0	
+equipment	Arcanist's multitool	50	5	
+equipment	Spellbook	50	3	
+equipment	Gobber bellows	45	10	
+equipment	Book	25	5	
+equipment	Component Pouch	25	2	
+equipment	Hourglass	25	1	
+equipment	Gladelight goggles	20	1	
+equipment	Gas mask	20	2	
+equipment	Pocket watch	20	0	
+equipment	Armor resistance treatment	15	0	
+equipment	Clockwork injector	12	2	
+equipment	Spotting scope	10	1	
+equipment	Ink (1 oz)	10	0	
+equipment	Lock	10	1	
+equipment	Silk Rope (50 feet)	10	5	
+equipment	Grenade bandolier	5	1.5	
+equipment	Chain (10 ft)	5	10	
+equipment	Perfume (vial)	5	0	
+equipment	Signet Ring	5	0	
+equipment	Oilskin tarp, 9 by 9 ft.	4	2	
+equipment	Abacus	2	2	
+equipment	Grappling Hook	2	4	
+equipment	Miner's Pick	2	10	
+equipment	Shovel	2	5	
+equipment	Sledgehammer	2	10	
+equipment	2 person Tent	2	20	
+equipment	Ammo bandolier	1.5	1.5	
+equipment	Bedroll	1	2	
+equipment	Bell	1	0	
+equipment	Block and Tackle	1	5	
+equipment	Fishing Tackle	1	4	
+equipment	Hammer	1	3	
+equipment	Hemp Rope (50 ft)	1	10	
+equipment	Iron pikes (10)	1	5	
+equipment	Entrenching spade	1	4	
+equipment	Gun brace	1	2.5	
+equipment	Goggles	0.5	0	
+equipment	Blanket	0.5	5	
+equipment	Rations (1 day)	0.5	2	
+equipment	Sealing Wax	0.5	0	
+equipment	Mess Kit	0.2	1	
+equipment	Paper (1 pc)	0.2	0	
+equipment	Ladder (10 ft)	0.1	25	
+equipment	Parchment (1 sheet)	0.1	0	
+equipment	Flint striker	0.05	0	
+equipment	Piton	0.05	0.25	
+equipment	Pole (10 ft)	0.05	7	
+equipment	Signal Whistle	0.05	0	
+equipment	Ink Pen	0.02	0	
+equipment	Candle	0.01	0	
+equipment	Chalk (1 pc)	0.01	0	
+equipment	Whetstone	0.01	1	
+holy symbols	Amulet	5	1	
+holy symbols	Emblem	5	0	
+holy symbols	Reliquary	5	2	
+usable items	Poison, basic (vial)	100	0	You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
+usable items	Alchemist's Fire (flask)	50	1	This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
+usable items	Antitoxin (vial)	50	0	A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefits to undead or constructs.
+usable items	Holy Water (flask)	25	1	As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
+usable items	Acid (vial)	25	1	As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
+usable items	Climber's Kit	25	12	A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
+usable items	Lantern - Bullseye	10	2	A bullseye lantern casts bright light in a 60-foot cone and dim light for an additional 60 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+usable items	Healer's Kit	5	3	This kit is a leather pouch containing bandages, salves, and splints. The kit has ten uses. As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+usable items	Hunting Trap	5	25	When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
+usable items	Lantern - Hooded	5	2	A hooded lantern casts bright light in a 30-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil. As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
+usable items	Crowbar	2	5	Using a crowbar grants advantage to Strength checks where the crowbar's leverage can be applied.
+usable items	Ball Bearings (bag of 1,000)	1	2	As an action, you can spill these tiny balls from their pouch to cover a level area 10 feet square. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or all prone. A creature moving through the area at half speed doesn't need to make the saving throw.
+usable items	Caltrops (bag of 20)	1	2	As an action, you can spread a single bag of caltrops to cover a 5-foot-square area. Any creature that enters the area must succeed on a DC 15 Dexterity saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw.
+usable items	Lamp	0.5	1	A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
+usable items	Tinderbox	0.5	1	This small container holds flint, fire steel, an tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch — or anything else with abundant, exposed fuel — takes an action. Lighting any other fire takes 1 minutes.
+usable items	Oil (flask)	0.1	1	Oil usually comes in a clay flask that holds 1 pint. As an action, you can splash the oil in this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. Make a ranged attack against a target creature or object, treating the oil as an improvised weapon. On a hit, the target is covered in oil. If the target takes any fire damage before the oil dries (after 1 minute), the target takes an additional 5 fire damage from the burning oil. You can also pour a flask of oil on the ground to cover a 5-foot-square area, provided that the surface is level. if lit, the oil burns for 2 rounds and deals 5 fire damage to any creature that enters the area or ends its turn in the area. A creature can take this damage only once per turn.
+usable items	Torch	0.01	1	A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+weapon accessories	Bipod	30	2	A bipod is a lightweight brace for a rifle. A character who takes the time to set up and brace a rifle with a bipod ignores the weapon's heavy property if it has one. A character's first attack each turn with a bipod-braced rifle gains a +1 bonus to the attack roll.
+weapon accessories	Rifle Scope	750	1	When attached to a rifle or pistol, this sighting device provides optical magnification that increases a shooter's long-range accuracy. When you take the Attack action and attack with a rifle or pistol equipped with a scope, you can use a bonus action to aim through the scope, which increases the weapon's normal and long ranges by 50 percent. A scope also functions as a spyglass for 1.5.
+weapon accessories	Pistol Scope	625	1	When attached to a rifle or pistol, this sighting device provides optical magnification that increases a shooter's long-range accuracy. When you take the Attack action and attack with a rifle or pistol equipped with a scope, you can use a bonus action to aim through the scope, which increases the weapon's normal and long ranges by 25 percent. A scope also functions as a spyglass for 1.25.
+weapon accessories	Wrist-Spring Holster	30	0.5	These leather bracers are fitted with a spring-arm mechanism that holds a dagger or holdout pistol in place and swiftly projects it into the wearer's hand when triggered. The nature of this device enables it to be easily concealed beneath a loose, billowy sleeve. You can draw or sheathe a weapon in a wrist-spring holster for free, even if you've already drawn or sheathed a weapon during your turn.
+pack	Soldier's Pack	50	d	
+pack	Entertainer's Pack	40	d	
+pack	Scholar's Pack	40	d	
+pack	Diplomat's Pack	39	d	
+pack	Priest's Pack	19	d	
+pack	Burglar's Pack	16	d	
+pack	Second-Story Pack	16	d	
+pack	Dungeoneer's Pack	12	d	
+pack	Explorer's Pack	10	d	

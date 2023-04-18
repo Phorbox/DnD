@@ -1,0 +1,42 @@
+		Speed	Str	Dex	Int	Wis	Cha	Con	Size	Language1	Language2
+Bogrin	Child of Dhunia	25		2		1			Small	Bogrinese	Choice
+Bogrin	Child of the Wurm	25		2				1	Small	Bogrinese	Choice
+Dragonborn	Gaulvang (Gold)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Scaefang (Green)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Ashnephos (Red)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Halfaug (Silver)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Shazkz (White)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Toruk (alive)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Charsaug (Black)	30							Medium		Choice
+Dragonborn	Nektor (Blue)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Pyromalfic (Brass)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Blighterghast (Copper)	30	2				1		Medium	Draconic	Choice
+Dragonborn	Everblight (Pale Blue)	30	2				1		Medium	Draconic	Choice
+Dwarf	Rhulic	25			1			2	Medium	Rhulic	Choice
+Elf	Nyss	30		2	1				Medium	Shyr	Choice
+Elf	Ios	30			2		1		Medium	Shyr	Choice
+Elf	Souless	30		1	2				Medium	Shyr	Choice
+Farrow		30			1			2	Medium	Grun	Choice
+Gnome	Nyss (Forest)	25		1	2				Small	Shyr	Choice
+Gnome	Ios (Rock)	25			2		1		Small	Shyr	Choice
+Gobber	City	25		2			1		Small	Gobberish	Choice
+Gobber	Lightfoot	25		2			1		Small	Gobberish	Choice
+Gobber	Stout	25		2				1	Small	Gobberish	Choice
+Half-Elf		30					2			Shyr	Choice
+Human	Protectorate	30	1					1	Medium	Choice	Choice
+Human	Ord	30	1	1					Medium	Choice	Choice
+Human	Llael	30			1		1		Medium	Choice	Choice
+Human	Khador	30				1		1	Medium	Choice	Choice
+Human	Cygnar	30		1	1				Medium	Choice	Choice
+Human	Cryx	30		1		1			Medium	Choice	Choice
+Human	Marchfolk	30				1		1	Medium	Morridane 	Sulese
+Ogrun	Rhulic	30	2					1	Medium	Rhulic	Choice
+Ogrun	Vanilla	30	2					1	Medium	Molgur-Og	Choice
+Pyg	Northkin	30	1	1		1			Small	Molgur-Trul	Choice
+Pyg	Woodland	30		1		1		1	Small	Molgur-Trul	Choice
+Tharn	Ravager	30	2					1	Medium	Molgur	Choice
+Tharn	Stalker	30		2				1	Medium	Molgur	Choice
+Tiefling	Satyxis	30			1		2		Medium	Choice	Choice
+Trollkin	Northkin	30	2					1	Medium	Molgur-Trul	Choice
+Trollkin	Woodland	30	1					2	Medium	Molgur-Trul	Choice
+Trollkin	Albino	30	1				1	1	Medium	Molgur-Trul	Choice

@@ -1,0 +1,56 @@
+Feature	pick	pool																																								
+Citizen Soldier	all	Weapon	simple melee weapons	martial melee weapons	light armor	medium armor	shields																																			
+all Martial Melee	all	Weapon	nyss claymore	nyss greatsword	greatsword	steam drill	sword cane	greataxe	caspian battleblade	rapier	scimitar	sickle staff	cutlass	heavy voulge	longsword	morningstar	warhammer	two-handed flail	kopis	trench sword	battleaxe	flail	maul	shortsword	war pick	trench knife	nyss curved halberd	voltaic halberd	hooked greatsword	ogrun warcleaver	blasting pike	chain blade	glaive	halberd	lance	pike	whip	storm glaive	caber	trident	electro lance	storm thrower
+all Simple Melee	all	Weapon	stave of authority	flame spear	'jack wrench	mace	pickaxe	gaff spear	springblade	bayonet	light kopis	gaff	coal shovel	halfspear	sickle	knuckledusters	greatclub	quarterstaff	club	handaxe	harpoon	dagger	light hammer	spear	javelin																	
+all Tools	all	Tools	Cook's utensils	Weaver's tools	Woodcarver's tools	Gunsmith's kit	Cobbler's tools	Leatherworker's tools	Carpenter's tools	Calligrapher's supplies	Mason's tools	Painter's supplies	Potter's tools	Cartographer's tools	Forensic kit	Brewer's supplies	Smith's tools	Field alchemy kit	Jeweler's tools	Glassblower's tools	Mechanik's toolkit	Weatherometer	Alchemist's supplies	Tinker's tools	Rune-etching kit																	
+all Martial Rifles	all	Weapon	slug gun	cannon-shield	rocket launcher	vanar liberator	houseguard heavy rifle	ogrun battle cannon	fire breather	barrage arquebus	sword-cannon	dawnguard sword-cannon	carbine	vortex cannon	magelock rifle	slugger	repeating rifle	lance cannon	military rifle	heavy rifle	arcantrik cannon																					
+all Skills	all	Skill	Survival	Stealth	Sleight of Hand	Religion	Persuasion	Performance	Perception	Nature	Medicine	Investigation	Intimidation	Insight	History	Deception	Athletics	Arcana	Animal Handling	Acrobatics																						
+all medium armor	all	Armor	Half plate	Houseguard armor	Tailored plate	Breastplate	Infantry Armor	Scale mail	Armored apron	Chain shirt	Hide																															
+all Heavy Armor	all	Armor	Dawnguard plate	Forge Guard plate	Plate	Storm Knight	House Ellowuyr plate	Splint	Chain mail	Ring mail																																
+all Martial Ranged	all	Weapon	repeating crossbow	heavy crossbow	longbow	stormfall great bow	nyss bow	blowgun	hand crossbow	net																																
+all Martial Pistols	all	Weapon	radcliffe quad-iron	hand mortar	dual magelock pistol	magelock pistol	heavy iosan pistol	dual hand cannon	hand cannon																																	
+all Simple Pistols	all	Weapon	rivet gun	rynnish holdout	musket pistol	harpoon pistol	repeating pistol	pistol	iosan pistol																																	
+all Simple Rifles	all	Weapon	rynnish walking stick	scattergun	blunderbuss	musket	harpoon gun	pig iron	iosan long rifle																																	
+All light Armor	all	Armor	Alchemist's leathers	Scrap armor	Studded leather	Leather	Mage hunter armor	Padded																																		
+all Martial Grenades	all	Weapon	explosive	fear gas	flash	incendiary	smoke	strangle gas																																		
+all Simple Ranged	all	Weapon	bola	dart	sling	shortbow	light crossbow																																			
+all shields	all	Armor	High shield	Tower shield	Buckler cannon	Assault shield	Shield																																			
+Dwarven Combat Training	all	Weapon	battleaxe	handaxe	throwing hammer	warhammer																																				
+all warcaster armor	all	Armor	Heavy	Medium	Light																																					
+Pilgrim's Path	all	Skills	History	Religion	Survival skills																																					
+A Pirate's Life	all	Weapon	cutlass	simple pistols																																						
+all steam armor	all	Armor	Heavy-class steam armor	Standard-class steam armor																																						
+Nyss Weapon Training	all	Weapon	Nyss longbow	Nyss claymore																																						
+People of the Land	all	Skills	Nature	Survival																																						
+Skill Versatility	2	Versatility	all Tools	all Skills																																						
+Shadow Hunter	2	Skill	Acrobatics	Stealth																																						
+A Life of Caution1	all	Weapon	Kopis																																							
+Born to Be Wild	all	Skill	Survival																																							
+Dueling Code	1	Weapon	all Martial Melee																																							
+Firearms Training	all	Weapon	Carbine																																							
+Keen Senses	all	Skill	Perception																																							
+Lessons of Ghord	all	Skill	History																																							
+Master Craftsman	all	Tools	tinker's tools																																							
+Athletic	all	Skill	Athletics																																							
+Tinker	all	Tools	tinker's tools																																							
+Keen Mind	2	Skill	Deception	Intimidation	Perception	Stealth																																				
+Legacy of the North	2	Skill	Animal Handling	Athletics	Intimidation	Survival																																				
+Shore Leave	2	Skill	Acrobatics	Athletics	Performance	Survival																																				
+Smuggler's Heritage	2	Skill	Deception	Intimidation	Perception	Stealth																																				
+Well Educated	2	Skill	Arcana	Insight	Medicine	Nature	Religion																																			
+A Life of Caution2	1	Weapon	longbow	hunting rifle	military rifle																																					
+Coastal Home	1	Tools	carpenter's tools	cartographer's tools	cook's utensils																																					
+Imposing Presence	1	Skill	Intimidation	Persuasion																																						
+Lessons of Ghord	1	Tools	mason's tools	smith's tools																																						
+Tinkerer	1	Tools	alchemist's supplies	mason's tools	smith's tools	tinker's tools																																				
+Tool Proficiency	1	Tools	smith's tools	brewer's supplies	mason's tools																																					
+Half-Elf Versatility	1	Effect	Nyss Weapon Training	" Child of Winter"	" Light Resilience"	" Quick Response"	" Skill Versatility"	" Martial Society"																																		
+Soldier's Pack	All	Pack	backpack	grappling hook	climber's kit	hammer	10  pitons	dark set of traveler's clothes	35 feet of hempen rope																																	
+Entertainer's Pack	All	Pack	Backpack	bedroll	2 costumes	5 candles	5 days of rations	waterskin	disguise kit																																	
+Scholar's Pack	All	Pack	Backpack	book of lore	bottle of ink	an ink pen	10 sheets of parchment	little bag of sand	small knife.																																	
+Diplomat's Pack	All	Pack	Chest	2 cases for maps	scrolls	set of fine clothes	bottle of ink	an ink pen	lamp	2 flasks of oil	5 sheets of paper	vial of perfume	sealing wax	soap																												
+Priest's Pack	All	Pack	Backpack	blanket	10 candles	tinderbox	an alms box	2 blocks of incense	censer	vestments	2 days of rations	waterskin																														
+Burglar's Pack	All	Pack	Backpack	bag of 1,000 ball bearings	10 feet of string	bell	5 candles	crowbar	hammer	10 pitons	hooded lantern	2 flasks of oil	5 days rations	tinderbox	waterskin	50 feet of hempen rope																										
+Second-Story Pack	All	Pack	backpack	bedroll	mess kit	tinderbox	small hammer	3 yards of oilcloth	10 days of rations	canteen	30 feet of hempen rope																															
+Dungeoneer's Pack	All	Pack	Backpack	crowbar	hammer	10 pitons	10 torches	tinderbox	10 days of rations	waterskin	50 feet of hempen rope																															
+Explorer's Pack	All	Pack	Backpack	bedroll	mess kit	tinderbox	10 torches	10 days of rations	waterskin	50 feet of hempen rope																																
